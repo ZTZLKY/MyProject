@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>pro-service-impl</artifactId>
+    <artifactId>serviceImpl</artifactId>
 
-    <name>pro-service-impl</name>
+    <name>serviceImpl</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

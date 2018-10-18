@@ -28,3 +28,5 @@ MyProject.iml
 pro-beans.iml
 Project-utils/Project-utils.iml
 Project-web/mvnw.cmd
+Project-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Project-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
