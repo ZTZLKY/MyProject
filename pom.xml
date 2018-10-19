@@ -12,7 +12,9 @@
         <module>Project-beans</module>
         <module>Project-utils</module>
         <module>Project-service</module>
-        <module>Project-service-impl</module>
+        <module>Project-dao</module>
+        <module>Project-service</module>
+        <module>serviceImpl</module>
     </modules>
 
     <name>parent</name>

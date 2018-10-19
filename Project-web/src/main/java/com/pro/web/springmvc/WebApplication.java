@@ -1,4 +1,4 @@
-package com.pro.web;
+package com.pro.web.springmvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
